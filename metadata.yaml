@@ -1,0 +1,37 @@
+_repo: The-Preface-to-the-Aeneis-of-Virgil--1718-_36137
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Kelsall, M. M. (Malcolm Miles)
+    alias: Kelsall, Malcolm Miles
+    birthdate: 1938
+    gutenberg_agent_id: '38099'
+    url: http://www.gutenberg.org/2009/agents/38099
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trapp, Joseph
+    birthdate: 1679
+    deathdate: 1747
+    gutenberg_agent_id: '38098'
+    url: http://www.gutenberg.org/2009/agents/38098
+description: ''
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36137'
+  lccn: '83621135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- In literature'
+- !lcsh 'Aeneas (Legendary character) -- In literature'
+- !lcsh 'Epic poetry, Latin -- History and criticism'
+- !lcc 'PA'
+- !lcsh 'Virgil. Aeneis'
+title: The Preface to the Aeneis of Virgil (1718)
+url: http://www.gutenberg.org/ebooks/36137
